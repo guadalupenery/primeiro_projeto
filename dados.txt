@@ -1,0 +1,2 @@
+primeira aula de módulos - 
+finalmente consegui, importando um arquivo texto posso escrever o que quiser por aqui
