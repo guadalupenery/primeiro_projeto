@@ -1,0 +1,164 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 700px;
+}
+
+main{
+    
+    margin-left: 44px ;
+}
+
+header
+{
+    width: 100%;
+    border-bottom: solid #b3aeae 3px;
+    padding: 16px 44px;
+}
+
+#menu {
+    margin-left: 546px;
+}
+
+.banner {
+    width: 100%;
+    padding: 16px 0px;    
+}
+
+.banner img{
+    width: 100%;
+}
+
+.products{
+    display: inline-block;
+    margin-top:24px;
+    vertical-align:top;
+}
+
+.description{
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 11px;
+    text-align: justify;
+    color: #555555;
+    padding: 12px;
+    min-height: 70px;
+ }
+
+ .description p{
+    padding-top: 10px;
+ }
+
+section .left,
+section .right {
+    background: #EEEEEE;
+    width: 256px;
+    height: 252px;
+    display: inline-block;
+    }
+
+.right {
+    margin-left: 137px;
+}
+
+.money{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 27px;
+    color: #888888;
+}
+
+.badge{
+    color: #FFFFFF;
+    width: 64px;
+    height: 21px;
+    margin-left: 4.8em;
+    font-size: 20px;
+    line-height: 21px;
+    padding: 0 16px;
+}
+
+.green{
+    background: #51D275;
+    border-radius: 10.5px;
+}
+
+.orange{
+    background: #DC9730;
+    border-radius: 10.5px;
+}
+
+
+#servicos{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    box-sizing: border-box;
+    margin-bottom: 44px;
+}
+
+.categories{
+    min-height: 50px;
+    color: #FFFFFF;;
+    opacity: 0.7;
+    margin-bottom: 16px;
+    padding-top: 20px;
+    width: 100%;
+  }
+
+
+.text-center{
+    min-height: 40px;
+    color: #888888;
+    margin-top: 10px;
+    padding-top: 30px;
+}
+
+
+.industrial{
+    background-image: url('../img/industrial.png');
+}
+
+.modern{
+    background-image: url('../img/modern.png');
+}
+
+.classic{
+    background-image: url('../img/classic.png');
+}
+
+footer {
+    background-color: #333333;
+    color: #FFFFFF;;
+    padding: 44px;
+    gap: 30%;
+    display: inline-flex;
+    width: 100%;
+    text-align: justify;
+}
+
+#contato {
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-size: 12px;
+    line-height: 23px;
+    margin-top: 9pm;
+
+}
+
+#social-media{
+    display: inline-block;
+    width: 110px;    
+}
+.facebook{
+    margin-right: 1.2em;
+    margin-left: 1.2em;
+};
